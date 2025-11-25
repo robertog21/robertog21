@@ -5,13 +5,12 @@
 
 #### Linkedin: [robertongra](https://www.linkedin.com/in/robertongra/)
 
-### Ferramentas e Tecnologias    
+#### Trabalho com as seguintes tecnologias abaixo, veja meu portfólio: Portfólio: [Portfólio](www.google.com.br)
 
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,js,selenium,cypress,jenkins" />
   </a>
-</p>
 
 
 
