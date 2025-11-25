@@ -1,4 +1,9 @@
-## Olá, me chamo Roberto.
+# Olá!!
+
+## Me chamo Roberto, estou na área de qualidade há 5 anos, e estou atuando com automação de software e desenvolvimento web e mobile há mais de dois anos.
+## Caso você tenha alguma dúvida sobre as informações encontradas nas soluções encontradas por aqui, você pode me acionar nas redes abaixo.
+
+# Linkedin: https://www.linkedin.com/in/robertongra/
 
 ## Ferramentas e Tecnologias
 
